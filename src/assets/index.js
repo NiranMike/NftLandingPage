@@ -53,6 +53,17 @@ import seventhSectionBg from "./seventhSectionBg.png"
 import fifthSectionBg from "./fifthSectionBg.png"
 import forthSectionBg from "./forthSectionBg.png"
 import heroText from "./discover rare monkey NFTs.png"
+import user1 from "./user1.png"
+import user2 from "./user2.png"
+import user3 from "./user3.png"
+import user4 from "./user4.png"
+import user5 from "./user5.png"
+import user6 from "./user6.png"
+import user7 from "./user7.png"
+import user8 from "./user8.png"
+import user9 from "./user9.png"
+import user10 from "./user10.png"
+import like from "./like.png"
 
 export {
     greenEth,heroText, creatWork, purpleBg, wallet,
@@ -67,7 +78,8 @@ export {
     blackBg, blackBg2, blackBg3, blackBg4, CardanoBadge, BitcoinPlusBadge,
     binanceUsdBadge, BinanceSmartChainBadge, wireBg, secondeSectionBg,
     seventhSectionBg, eightSectionBg, fifthSectionBg, sixthSectionBg,
-    forthSectionBg,thirdSectionBg
+    forthSectionBg, thirdSectionBg, user1, user10, user2, user3, user4, user5,
+    user6,user7,user8,user9,like,
 } 
 
 

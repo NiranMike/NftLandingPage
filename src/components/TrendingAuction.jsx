@@ -23,4 +23,6 @@ const TrendingAuction = () => {
   )
 }
 
+
+
 export default TrendingAuction

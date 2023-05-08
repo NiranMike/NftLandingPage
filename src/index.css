@@ -27,3 +27,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.third_section_bg{
+  background-image: url('./assets/thirdSectionBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
