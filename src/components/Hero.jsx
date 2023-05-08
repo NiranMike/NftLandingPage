@@ -2,7 +2,7 @@ import { Monkey, eth, heroText, playbtn } from "../assets"
 
 const Hero = () => {
   return (
-    <div className="hero-bg text-white grid gap-7 lg:grid-cols-2 px-3 lg:px-12 pt-[160px]">
+    <div className="hero-bg 2xl:justify-center 2xl:items-center 2xl:mx-auto text-white grid gap-7 lg:grid-cols-2 px-3 lg:px-12 pt-[160px]">
         <div className=" space-y-6">
             <p className="md:text-[20px] font-semibold ">THE LARGEST MONKEY NFT MARKETPLACE</p>
             <img src={heroText} alt="" />
@@ -18,7 +18,7 @@ const Hero = () => {
             </div>
         </div>
         <div className="relative hidden lg:block">
-            <div className=" relative border-[3px] flex flex-col from-[#4AED52] to-[#E025CE] border-[#E025CE] rounded-[8px] bg-[#ffffff2c] ml-[180px] backdrop-blur-md">
+            <div className=" relative border-[3px] flex flex-col 2xl:w-[500px] from-[#4AED52] to-[#E025CE] border-[#E025CE] rounded-[8px] bg-[#ffffff2c] ml-[180px] backdrop-blur-md">
                 
                 <div className="flex h-[380px] bg-[#ffffff2c] items-end z-20 p-4 backdrop-blur-none justify-between">
                     <div className=" space-y-5 ">

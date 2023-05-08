@@ -19,4 +19,11 @@
 
 .hero-bg{
   background-image: url('./assets/secondeSectionBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.trending_auction_bg{
+  background-image: url('./assets/secondeSectionBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
